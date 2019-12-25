@@ -1,12 +1,32 @@
-.navbar-brand{
-  font-size: 2em;
-}
-
 .navbar{
-  background-color: #008040;
+  background-color: #00b359;
 }
 
-div{
-  padding: 20px;
+.navbar-brand{
+  font-size: 3em;
+  font-weight: bold;
+  text-shadow: 8px 4px #006633;
+}
+
+.container{
+  background-color: #99d999;
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+h1{
+  margin: 20px 0px 20px 0px;
+  font-size: 2.75em;
+  font-weight: bold;
+  color: #006633;
+}
+
+h2{
+  font-size: 2.25em;
+  font-weight: 400;
+  text-align: center;
+}
+
+div > p {
   font-size: 16pt;
 }
