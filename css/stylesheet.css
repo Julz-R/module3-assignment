@@ -1,0 +1,59 @@
+.navbar{
+  background-color: #00b359;
+  border-bottom: 3px solid #006633;
+}
+
+.navbar-brand{
+  font-size: 2.5em;
+  font-weight: bold;
+  text-shadow: 8px 4px #006633;
+  padding: 4px 0px 0px 0px;
+}
+
+.navbar-dark .navbar-toggler {
+  border-color: #000;
+  margin-top: 8px;
+}
+.navbar-dark .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(0, 0, 0, 0.5)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+#nav-list{
+    margin-bottom: -5px;
+}
+
+#nav-list a{
+  color: #225d22;
+  text-align: center;
+  font-size: 1.25em;
+  display: block;
+  padding: 0px;
+}
+
+li{
+  padding: 5px 0px;
+  border-top: 3px solid #006633;
+}
+
+#nav-list a:hover{
+  background-color: #99d999;
+}
+
+h1{
+  margin: 20px;
+  color: #006633;
+  font-size: 2.25em;
+}
+
+h2{
+  background-color: #99d999;
+  text-align: center;
+  padding: 5px;
+  margin: 0px;
+  font-size: 2em;
+}
+
+p{
+  background-color: #99d999;
+  padding: 5px;
+}
